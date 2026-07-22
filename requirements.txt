@@ -1,0 +1,4 @@
+# Credhunter usa solo la libreria estandar de Python
+# colorama es opcional, crea los colores ANSI en consolas lecacy de Windows
+# En Linux (El SO objetivo de esta herramienta) no es necesario
+colorama
